@@ -9,8 +9,10 @@ PS: Some sites require accounts to be made . (I've added to commnents which can 
 HOW TO USE 
 
 1.Install Python 2.x
+
 2.Install Selenium (Can use PIP or Easy-Install)
         pip install selenium
+        
 3.Install Chrome Driver http://chromedriver.storage.googleapis.com/2.9/chromedriver_win32.zip (You can do in on firefox too , but you have to just replace chrome with Firefox in the source code )
 
 Thats it . You are Ready to go .
